@@ -1,5 +1,5 @@
-circle('wheel');
-circle('wheel2');
+circle('wheel_3');
+circle('wheel_4');
 
 function circle(id) {
     var elInteraction = document.getElementById(id);
